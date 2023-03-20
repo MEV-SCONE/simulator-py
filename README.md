@@ -1,7 +1,7 @@
 # Simulator
 
 - Run `simul-ODDS.ipynb` for simulating optimal stopping.
-- Run `simul-ODDS.ipynb` for simulating SCONE.
+- Run `simul-SCONE.ipynb` for simulating SCONE.
 
 # Env
 
